@@ -4,16 +4,17 @@
 Author: Jeremy H. Todd (http://jeremytodd.org/)  
 License: Public domain
 
-Description
+描述
 -----------
 
-This is an example project to demonstrate the creation of sequential GUID values for use as primary keys in database tables under various database types.
-It is intended to accompany my article [GUIDs as fast primary keys under multiple databases](http://www.codeproject.com/Articles/388157/GUIDs-as-fast-primary-keys-under-multiple-database).
+这是一个示例项目，演示如何在不同数据库类型的数据库表中创建用作主键的顺序GUID值。
 
-Contents
+我的文章[GUIDs作为多个数据库下的快速主键]（http://www.codeproject.com/Articles/388157/GUIDs作为多个数据库下的快速主键）。
+
+正文
 --------
 
-A Visual Studio solution containing two projects:
+包含两个项目的Visual Studio解决方案：
 
-* SequentialGuid - A small library containing the types and methods to generate sequential GUIDs using the method outlined in the article.
-* SequentialGuid.Demo - A WinForms application demonstrating the generation and use of sequential GUIDs.
+* SequentialGuid - 一个小型库，包含使用本文中概述的方法生成顺序guid的类型和方法。
+* SequentialGuid.Demo - 一个WinForms应用程序，演示序列guid的生成和使用。
